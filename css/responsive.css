@@ -29,7 +29,7 @@
 }
 
 @media only screen and (max-width: 750px) {
-  body {
-    background-color: lightblue;
+  #navbar nav a {
+    font-size: 0.9em;
   }
 }
